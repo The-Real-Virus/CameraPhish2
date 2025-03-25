@@ -1,0 +1,7 @@
+This is the modified version of camphish, 
+
+Credits Goes to:  https://github.com/Techchipnet/camphish
+
+watch our own tool ,
+
+https://github.com/The-Real-Virus/CameraPhish
